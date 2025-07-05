@@ -1,8 +1,10 @@
 # Hello World 👋
 
 ### 👋 Olá, eu sou o Gabriel 😎
+Estou em busca da minha primeira oportunidade em desenvolvimento web, motivado a aprender e contribuir com projetos reais.
+
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cordeiro-valadares-704a13206/)
- [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColo)](valadaresg588@gmail.com)
+[![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColo)](valadaresg588@gmail.com)
 
 ![Gabrie1Valadares GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrie1Valadares&show_icons=true&theme=tokyonight)
 
@@ -22,5 +24,4 @@
   <img align="center" alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br/>
 
-
-[![image_converted (1)](https://github.com/user-attachments/assets/2c5d73bd-f6e9-4fe0-8ca1-a6f7a1cbcd8d)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFnb3VobzYyZ3Q1YTRhcm5pMnFvdmI4YXFjYTdyeHY2bjBheGl2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif)
+### Melhoria contínua: Não importa quão pequeno seja o progresso, o importante é avançar sempre.
