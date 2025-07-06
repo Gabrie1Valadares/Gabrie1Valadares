@@ -1,7 +1,6 @@
 # Hello World 👋
 
 ### 👋 Olá, eu sou o Gabriel 😎
-Estou em busca da minha primeira oportunidade em desenvolvimento web, motivado a aprender e contribuir com projetos reais.
 
 [![blog target="_blank](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cordeiro-valadares-704a13206/)
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColo)](mailto:valadaresg588@gmail.com)
